@@ -1,4 +1,4 @@
-# ProgettoAPI_2020
+# API-Project2020
 Algorithms and Principles of Computer Science Project - Polimi - a.a. 2019/2020
 
 
